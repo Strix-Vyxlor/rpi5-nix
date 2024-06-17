@@ -46,6 +46,7 @@ in
 } // {
   rpi-kernels = rpi-kernels [{
     version = "6.6.33";
+    kernel = rpi-linux-6_6-src;
     fw = rpi-firmware-src;
     wireless-fw = import ./rpi-wf.nix {
       bluez-firmware = rpi-bluez-firmware-src;
