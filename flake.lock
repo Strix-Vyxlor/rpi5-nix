@@ -43,12 +43,12 @@
       },
       "locked": {
         "lastModified": 1,
-        "narHash": "sha256-H59JGsL/i0FblUMRnNOOooMZ1WOipkY7T2XVTAa17dk=",
-        "path": "./nix",
+        "narHash": "sha256-sSsZk8GS5tjICGdUp8htwEiTGV3/nT3lC8KWF6ri8+Y=",
+        "path": "/nix/store/34ixwa3mixs3w4v50inim6i16bxjcxs1-source/nix",
         "type": "path"
       },
       "original": {
-        "path": "./nix",
+        "path": "/nix/store/34ixwa3mixs3w4v50inim6i16bxjcxs1-source/nix",
         "type": "path"
       }
     },

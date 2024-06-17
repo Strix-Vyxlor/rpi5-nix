@@ -2,7 +2,7 @@
   description = "raspberry-pi-nix";
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.05";
-    raspberry-pi-nix.url =  "path:./nix";
+    raspberry-pi-nix.url =  "./nix";
   };
 
   outputs = { self, nixpkgs, raspberry-pi-nix }:

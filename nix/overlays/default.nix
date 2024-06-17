@@ -3,7 +3,7 @@
 final: prev:
 let
 
-  latest = "6_6_33";
+  latest = "v6_6_33";
 
   rpi-kernel = { kernel, version, fw, wireles-fw, argsOverride ? null }:
     let
